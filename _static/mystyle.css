@@ -12,3 +12,9 @@ span.bolditalic {
     text-decoration: underline;
     text-decoration-color: blue;
 }
+
+span.highlight {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
