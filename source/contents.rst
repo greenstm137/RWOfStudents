@@ -60,7 +60,11 @@
     
     Intro/Introduction
     MC_methods/General
-    
+    Rad_therapy/Rad_th
+    Tasks/burdenko
+    Conclusion/sumup
+    Bib/biblio
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
