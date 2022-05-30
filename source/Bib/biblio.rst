@@ -18,3 +18,5 @@ Michael Joiner & Albert van der Kogel "Basic Clinical Radiotherapy"
 Faiz M. Khan "Treatment Planning in Radiation Oncology"
 
 `Jonathan Goodman's Lecture notes on Monte-Carlo Methods (about Variance Reduction) <https://math.nyu.edu/~goodman/teaching/MonteCarlo2005/notes/VarianceReduction.pdf>`_
+
+Ю. В. Стогов "Основы нейтронной физики"
