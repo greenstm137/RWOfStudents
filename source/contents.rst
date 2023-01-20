@@ -15,6 +15,7 @@
     Neutrons/Neutrons
     Conclusion/sumup
     Bib/biblio
+    Ophtalmology/Fundus
 
 * :ref:`genindex`
 * :ref:`modindex`

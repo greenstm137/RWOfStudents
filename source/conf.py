@@ -110,7 +110,7 @@ latex_elements = {
 
 # Bibliography staff
 # https://sphinxcontrib-bibtex.readthedocs.io/en/latest/usage.html
-bibtex_bibfiles = ['refs.bib']
+bibtex_bibfiles = ['references.bib']
 bibtex_encoding = 'latin'
 bibtex_default_style = 'unsrt'
 
