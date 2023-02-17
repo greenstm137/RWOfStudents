@@ -41,7 +41,8 @@ today_fmt = '%d %B %Y'  # e.g., 03 Июня 2020
 extensions = [
     'sphinxcontrib.inkscapeconverter',
     'sphinxcontrib.spelling',
-    'sphinxcontrib.bibtex'
+    'sphinxcontrib.bibtex',
+    'sphinx.ext.mathjax'
 ]
 
 image_converter = 'inkscape'

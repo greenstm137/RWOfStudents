@@ -16,6 +16,7 @@
     Conclusion/sumup
     Bib/biblio
     Ophtalmology/Fundus
+    Ophtalmology/Rotation
 
 * :ref:`genindex`
 * :ref:`modindex`
